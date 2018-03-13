@@ -6,5 +6,12 @@
 - you can download some images in a http/https html on internet
 - you can edit the url txt to download what you want
 - the imgtool is depend on Jsoup 
+## run
+- download imgraber.jar file [imgraber](https://github.com/Himi7362/imgraber/raw/master/imgraber.jar)
+- win+r>cmd:put command as follow: (TIPS:To ensure that the cmd running path is same ar .jar file  )
+```
+java -jar imgraber.jar
+```
 ## License
 imgraber released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0)
+
